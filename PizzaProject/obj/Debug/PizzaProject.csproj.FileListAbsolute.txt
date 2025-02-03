@@ -1,0 +1,10 @@
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.FormPizzaOrder.resources
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\mm890\source\repos\PizzaProject\PizzaProject\obj\Debug\PizzaProject.pdb
